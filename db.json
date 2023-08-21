@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "Name": "Kate Olson",
+      "phoneNumber": "801-979-9039",
+      "Address": "Draper, UT",
+      "Email": "kateolson1@outlook.com",
+      "Category": "fiancee"
+    },
+    {
+      "id": 2,
+      "Name": "Leilani Vigil",
+      "phoneNumber": "801-555-5555",
+      "Address": "Orem, UT",
+      "Email": "leilanigastelum@gmail.com",
+      "Category": "sister"
+    },
+    {
+      "id": 3,
+      "Name": "Maurice Yancey",
+      "phoneNumber": "801-444-4444",
+      "Address": "Kaysville, UT",
+      "Email": "moyance@gmail.com",
+      "Category": "friend"
+    },
+    {
+      "name": "",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "category": "",
+      "id": 4,
+      "Name": "Leonel Messi",
+      "phoneNumber": "444-444-4444",
+      "Email": "Leo@gmail.com",
+      "Address": "Miami, FL",
+      "Category": "Athlete"
+    },
+    {
+      "Name": "Jared Gastelum",
+      "phoneNumber": "801-941-4652",
+      "Email": "jaredgastelum@gmail.com",
+      "Address": "1916 Chelemes Way",
+      "Category": "Me",
+      "id": 14
+    },
+    {
+      "Name": "Carlos Gastelum Tirado",
+      "phoneNumber": "801-819-4886",
+      "Email": "carlosgastelum@netcuras.com",
+      "Address": "Clearfield, UT",
+      "Category": "Father",
+      "id": 15
+    },
+    {
+      "Name": "Isaac",
+      "phoneNumber": "801-789-4566",
+      "Email": "Isaac@yahoo.com",
+      "Address": "Sandy, UT",
+      "Category": "Uncle",
+      "id": 16
+    }
+  ]
+}
